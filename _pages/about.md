@@ -6,7 +6,7 @@ subtitle: <a href='#'>Shandong University</a>. Shunhua Road 1500, Jinan, China.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: personal_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Shunhua Road 1500</p>
