@@ -16,20 +16,21 @@
       year: 2023
       description:
         - Biomedical Engineering program
-        - Advisor (maybe, I want to) Jian Zhou
+        - Advisor Jian Zhou (who I prefer to)
 
     - title: Bachelor
-      institution: Shandong University, Jinan, chain
+      institution: Shandong University, Jinan, China
       year: 2019
       description:
         - Artificial Intelligence in Software Engineering
-        - Advisor Leiyi wei
+        - Advisor Leyi wei
         - Comprehensive rank 2/300, GPA rank 19/300
-        - title: Special Honors.
+        - title: Special Honors:
           contents:
             - National Scholarship
             - Presidential Scholarship
             - Jinan Scholarship
+            - <b>......</b>
 
 - title: Experience
   type: time_table
@@ -42,3 +43,4 @@
   type: list
   contents:
     - <u>Hobbies:</u> Chess, Anime, Games (Cvilization/Heart of Irons/LoL), etc.
+    - <u>Acg:</u> You can talk all Acg relative things to me, including VTuber, Genshin impact, Anime, Japanese comics, etc. 
