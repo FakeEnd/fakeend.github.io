@@ -28,7 +28,11 @@ jobs:
     - name: Install and Build 🔧
       run: |
         npm install -g mermaid.cli
+    - name: Install webrick 🔧
+      run: |
         bundle add webrick
+    - name: build 🔧
+      run: |
         bundle exec jekyll build
     - name: Deploy 🚀
       if: github.event_name != 'pull_request'
